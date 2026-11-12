@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 5315c2a90a17c35499d08919fca2505b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4434221287385872320
+    second: Golden Detective Play Game Button_0
+  - first:
+      213: -8267322388716856172
+    second: Golden Detective Play Game Button_1
+  - first:
+      213: 8974677476836941955
+    second: Golden Detective Play Game Button_2
+  - first:
+      213: -6322962419927334799
+    second: Golden Detective Play Game Button_3
+  - first:
+      213: -4263703464764389290
+    second: Golden Detective Play Game Button_4
+  - first:
+      213: 1784124818870290448
+    second: Golden Detective Play Game Button_5
+  - first:
+      213: 6033593660534657199
+    second: Golden Detective Play Game Button_6
+  - first:
+      213: 374760645631202722
+    second: Golden Detective Play Game Button_7
+  - first:
+      213: 7623628622877168655
+    second: Golden Detective Play Game Button_8
+  - first:
+      213: 1610965934105809431
+    second: Golden Detective Play Game Button_9
+  - first:
+      213: -8260632476996512400
+    second: Golden Detective Play Game Button_10
+  - first:
+      213: -6840251220481734169
+    second: Golden Detective Play Game Button_11
+  - first:
+      213: -1827363910829768050
+    second: Golden Detective Play Game Button_12
+  - first:
+      213: -3441032575062398343
+    second: Golden Detective Play Game Button_13
+  - first:
+      213: -1913922815038106605
+    second: Golden Detective Play Game Button_14
+  - first:
+      213: -303149002136239004
+    second: Golden Detective Play Game Button_15
+  - first:
+      213: -8089608370085636162
+    second: Golden Detective Play Game Button_16
+  - first:
+      213: 2154739473102277368
+    second: Golden Detective Play Game Button_17
+  - first:
+      213: -9108738547893954881
+    second: Golden Detective Play Game Button_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_0
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 713
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c73c1274c4898d30800000000000000
+      internalID: 4434221287385872320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 2115
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd5e0f612944d80800000000000000
+      internalID: -8267322388716856172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 691
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380a0948d957c8c70800000000000000
+      internalID: 8974677476836941955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 693
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1704618fd235048a0800000000000000
+      internalID: -6322962419927334799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 681
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658cd13f94844d4c0800000000000000
+      internalID: -4263703464764389290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_5
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c8bfe11c72c810800000000000000
+      internalID: 1784124818870290448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_6
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 671
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa097378771abb350800000000000000
+      internalID: 6033593660534657199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 686
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5d4a652da633500800000000000000
+      internalID: 374760645631202722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_8
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 696
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04181e37d19cc960800000000000000
+      internalID: 7623628622877168655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_9
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 677
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d1a75bfc4b5610800000000000000
+      internalID: 1610965934105809431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_10
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 675
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075519467865c5d80800000000000000
+      internalID: -8260632476996512400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_11
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 661
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e901c491cb8211a0800000000000000
+      internalID: -6840251220481734169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_12
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e828f937436e3a6e0800000000000000
+      internalID: -1827363910829768050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_13
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 613
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aabd6ba1ffe30d0800000000000000
+      internalID: -3441032575062398343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314532217516075e0800000000000000
+      internalID: -1913922815038106605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c7a5b69ffacbf0800000000000000
+      internalID: -303149002136239004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_16
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 63
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d4094c00fbbf80800000000000000
+      internalID: -8089608370085636162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 37
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa06cd622c27ed10800000000000000
+      internalID: 2154739473102277368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Detective Play Game Button_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb69fd40d82479180800000000000000
+      internalID: -9108738547893954881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Golden Detective Play Game Button_0: 4434221287385872320
+      Golden Detective Play Game Button_1: -8267322388716856172
+      Golden Detective Play Game Button_10: -8260632476996512400
+      Golden Detective Play Game Button_11: -6840251220481734169
+      Golden Detective Play Game Button_12: -1827363910829768050
+      Golden Detective Play Game Button_13: -3441032575062398343
+      Golden Detective Play Game Button_14: -1913922815038106605
+      Golden Detective Play Game Button_15: -303149002136239004
+      Golden Detective Play Game Button_16: -8089608370085636162
+      Golden Detective Play Game Button_17: 2154739473102277368
+      Golden Detective Play Game Button_18: -9108738547893954881
+      Golden Detective Play Game Button_2: 8974677476836941955
+      Golden Detective Play Game Button_3: -6322962419927334799
+      Golden Detective Play Game Button_4: -4263703464764389290
+      Golden Detective Play Game Button_5: 1784124818870290448
+      Golden Detective Play Game Button_6: 6033593660534657199
+      Golden Detective Play Game Button_7: 374760645631202722
+      Golden Detective Play Game Button_8: 7623628622877168655
+      Golden Detective Play Game Button_9: 1610965934105809431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
